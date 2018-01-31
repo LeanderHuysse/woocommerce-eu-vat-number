@@ -1,0 +1,11 @@
+
+{
+    "name": "IOLabs/woocommerce-eu-vat-number",
+    "description": "Plugin mirror for: woocommerce-eu-vat-number",
+    "license": "GPL",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3.2",
+        "composer/installers": "v1.0.6"
+    }
+}
